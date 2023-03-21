@@ -1,7 +1,8 @@
 site: Personal Jekyll Theme
 
-url: 
-baseurl: 
+domain: dcresourcesllc.com
+url: https://dcresourcesllc.com
+baseurl:
 
 collections:
   pages:
