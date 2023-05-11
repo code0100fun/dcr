@@ -1,10 +1,11 @@
 ---
 title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Reach out to us anytime. We're always available to talk.
+description: D&C Resources Contact Page
 featured_image: /images/person_on_phone2.jpg
 ---
 
-{% include contact-form.html %}
+### Marshal, Texas
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+<p>430-558-1246</p>
+<p>info@dcresourcesllc.com</p>

@@ -1,0 +1,11 @@
+- name: Chris Marlowe
+  role: CEO
+  bio: Chris Marlowe is an Army veteran, having served in multiple global theatres. His expertise is in networking, marketing, communications, and navigating deals through finalization. Negotiating, acquiring, and selling with permissions from stakeholders inside of expected parameters of operation.
+  job_description: Manages a network of global contacts for fuel and other commodities.
+  image: /images/texas_sign.jpg
+
+- name: Dereck Reeves
+  role: COO
+  bio:
+  job_description:
+  image: /images/texas_sign.jpg
